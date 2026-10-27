@@ -1,0 +1,1 @@
+Put properly licensed, labeled datasets here. Do not commit private or sensitive email data. Current examples are synthetic and stored in training/demo_data.py.\n
